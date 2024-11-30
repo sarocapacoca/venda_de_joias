@@ -30,3 +30,24 @@ Este projeto é um website simples voltado para a exibição e venda de joias, c
 ## Como Contribuir  
 Este é um projeto individual para fins de aprendizado. Colaboradores não são esperados no momento, mas sugestões são bem-vindas!
 
+## Análise do Desenvolvimento
+
+### Desafios Enfrentados
+- Configuração inicial do ambiente e ferramentas (Visual Studio Code, Git, e GitHub).
+- Resolver erros de comandos no Git, como `refspec main does not match any`.
+- Entendimento e organização de commits frequentes no controle de versão.
+
+### Soluções Adotadas
+- Utilização de comandos Git para corrigir problemas de sincronização.
+- Testes contínuos para verificar o funcionamento do site no navegador.
+- Aplicação de boas práticas de versionamento, como mensagens claras nos commits.
+
+### Funcionalidades Implementadas
+- Página inicial com destaque para produtos.
+- Galeria de produtos com imagens, preços e descrições.
+- Formulário de contato para interação com o cliente.
+
+### Benefícios do Git no Projeto
+- Organização e rastreamento de alterações.
+- Criação de um histórico de desenvolvimento claro e documentado.
+- Segurança ao corrigir problemas sem perder progresso.
